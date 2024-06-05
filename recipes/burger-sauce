@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pizza Dough</title>
+    <title>Burger Sauce Recipe</title>
 </head>
 <body>
-    <h1>Pizza Dough</h1>
+    <h1>Burger Sauce</h1>
     <figure>
-    <img src="../images/pizza-dough.jpeg" alt="pizza dough finished" title="pizza out of oven"  height="512" width="683" >
+    <img src="../images/burger-sauce.jpeg" alt="pizza dough finished" title="pizza out of oven"  height="512" width="683" >
     <figcaption><h3>A Finished Pizza Out of The Oven</h3></figcaption>
     </figure>
 
